@@ -10,6 +10,7 @@ def print_menu():
     print("1. Odd numbers")
     print("2. Even numbers")
     print("3. ...")
+    print("4. ...")
 
 
 def main():
