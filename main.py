@@ -9,6 +9,7 @@ def odd_numbers(n):
 def print_menu():
     print("1. Odd numbers")
     print("2. Even numbers")
+    print("3. ...")
 
 
 def main():
